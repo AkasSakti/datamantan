@@ -1,5 +1,0 @@
-buat aplikasi berbasis web laravel 11 sebagai aplikasi crud di folder D:\nang jember\Akas Bagus Setiawan\TIF-SDA\Ganjil 26-27\WSI Mobile Dasar\kodingan\datamantan\web
-buat aplikasi berbasis mobile native untuk android SDK 29-36 sebagai aplikasi crud, di folder D:\nang jember\Akas Bagus Setiawan\TIF-SDA\Ganjil 26-27\WSI Mobile Dasar\kodingan\datamantan\mobile
-aplikasi web dan mobile tersebut memanfaatkan database mysql mengelola 1 tabel dengan nama database mantanku, tabel mantan_terindah, dengan kolom: id, nama, no_hp, alamat. untuk file sql buat di direktori D:\nang jember\Akas Bagus Setiawan\TIF-SDA\Ganjil 26-27\WSI Mobile Dasar\kodingan\datamantan
-untuk mobile android jika tidak bisa langsung crud ke mysql buat cara lain memanfaatkan APi laravel 11 atau opsi lainnya yang lebih mudah
-buat file readme di D:\nang jember\Akas Bagus Setiawan\TIF-SDA\Ganjil 26-27\WSI Mobile Dasar\kodingan\datamantan yang isinya menjelaskan cara keterhubungan antara android dan web, lalu cara menjalankannya dan bahas juga file-file konfigurasi antara web dan mobile kemudian jelaskan apa itu gradel, SDK, fungsi dan cara memanfaatkannya
